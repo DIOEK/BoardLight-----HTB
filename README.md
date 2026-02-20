@@ -81,7 +81,7 @@ chmod it, so it becomes executable:
 <img width="1421" height="385" alt="image" src="https://github.com/user-attachments/assets/b179b598-97e0-439c-9efe-c9236be2b956" />
 
 Execute it and get root
-<img width="1421" height="385" alt="image" src="https://github.com/user-attachments/assets/67d3ce37-77a7-41f2-9ab8-78cae88a5249" />
+<img width="657" height="222" alt="image" src="https://github.com/user-attachments/assets/f9aea5df-95ae-4364-80c0-1e8119284ea1" />
 
 
 
