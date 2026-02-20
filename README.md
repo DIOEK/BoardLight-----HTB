@@ -20,8 +20,7 @@ https://github.com/nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253
 Git clone it to you linux, make a venv and install the requirements in it so we can get working with it.
 
 Okn this is the README teaching us how to use it:
-USAGE
-```
+
 usage: CVE-2023-30253.py [-h] [--url URL] [-u USER] [-p PASSWORD] (-c COMMAND | -r ip port)
 
 Argument parser
